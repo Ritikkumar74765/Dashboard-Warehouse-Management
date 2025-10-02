@@ -12,6 +12,10 @@ This repository contains a Power BI dashboard (`Wherahouse.pbix`) designed to pr
 - User-friendly design for decision-making.
 
 ---
+📸 Dashboard Preview
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc1b0392-2df9-45d5-bda7-a2e40b70f591" />
+
 
 ## 📂 Files
 - **Wherahouse.pbix** → Main Power BI dashboard file.
